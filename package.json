@@ -1,0 +1,14 @@
+{
+  "name": "mobile-menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "serve": "set PORT=8000 && live-server"
+  },
+  "author": "Paul Leonardo",
+  "license": "ISC"
+}
